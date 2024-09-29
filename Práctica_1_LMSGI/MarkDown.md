@@ -64,6 +64,6 @@ En resumen, _Markdown_ es una excelente elección para la documentación de proy
 | Desarrollo del código sea más rápido      | No son seguros      |
 | Más fácil de leer      | Monousuraio     |
 
-[MarkDown.html](https://github.com/iligcor555/daw1-/blob/main/1_Pr%C3%A1ctica/MarkDown.html)
+[MarkDown.html](Práctica_1_LMSGI/MarkDown.html)
 
 
